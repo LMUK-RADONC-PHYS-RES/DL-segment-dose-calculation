@@ -1,0 +1,38 @@
+# Internal tool state (never commit)
+.omc/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Inference outputs (generated at runtime)
+output/
+
+# Mac cache files from mac_cache.json generation
+mac_cache.json

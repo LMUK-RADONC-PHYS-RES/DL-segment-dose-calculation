@@ -1,0 +1,8 @@
+{ 
+	"inshape": [256, 192, 192, 1], 
+	"kernel_size": 3, 
+	"num_heads": 4, 
+	"num_transformers": 1, 
+	"enc_feats": 10,
+	"num_levels": 5
+}
