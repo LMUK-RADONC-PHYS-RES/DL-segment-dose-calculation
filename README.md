@@ -42,10 +42,6 @@ python inference/CNN_Mamba/inference.py \
     --model-weights /path/to/weights.pth
 ```
 
-## Open Challenge
-
-An associated open challenge is available at the [DoseRad 2026 Grand Challenge](https://doserad2026.grand-challenge.org/).
-
 ## Citation
 
 If you find this code useful in your research, please consider citing: 
@@ -59,3 +55,7 @@ If you find this code useful in your research, please consider citing:
   doi     = {10.1088/1361-6560/ae6413}
 }
 ```
+
+## Open Challenge
+
+An associated open challenge is available at the [DoseRad 2026 Grand Challenge](https://doserad2026.grand-challenge.org/).
